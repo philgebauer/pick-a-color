@@ -1,0 +1,48 @@
+.jumbrotron {
+  height: 50%;
+}
+
+.boxes {
+  float: none;
+  margin: 0 auto;
+
+}
+
+.boxBlue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: solid 1px silver;
+
+
+
+}
+
+.boxGreen {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border: solid 1px silver;
+
+
+
+}
+
+.boxPurple {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  border: solid 1px silver;
+
+
+}
+
+.boxYellow {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border: solid 1px silver;
+
+
+
+}

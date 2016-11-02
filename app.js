@@ -65,8 +65,6 @@ $('document').ready(function (){
   }
 
   $('.clickArea').on('click', '.boxes', function(){
-    console.log($(this));
-    console.log(colorValue);
     if ($(this).hasClass(colorValue)) {
       // alert('way to go');
       $('.rightOrWrong').text('Way to go!');
